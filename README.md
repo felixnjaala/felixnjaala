@@ -4,23 +4,22 @@
       I build scalable backend systems, engineer intelligent ML solutions, and turn data into actionable insights.
       My work combines modern backend architecture, deep learning techniques, and a commitment to excellence.
 
- What I Do
-    
-    Develop and deploy machine learning models for real-world applications
+ What I Do     
+       Develop and deploy machine learning models for real-world applications
     Architect scalable backend services with NestJS and Java Spring Boot
     Transform raw data into meaningful insights and data-driven decisions
     Design secure, high-performance APIs and microservices with PostgreSQL and other modern technologies
-
-Currently Exploring
-
-    Advanced machine learning techniques and real-world AI use cases
+    
+Currently Exploring 
+       Advanced machine learning techniques and real-world AI use cases
     Efficient model training and optimization
     Data pipelining, MLOps, and production-ready model deployments
     Distributed backend systems and clean architecture patterns
 
-📖 Guiding Principle
-
+Guiding Principle 
     "Whatever you do, work at it with all your heart, as working for the Lord..." — Colossians 3:23
+
+    
 
 
 ## 🌐 Socials:
